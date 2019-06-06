@@ -1,0 +1,14 @@
+/* 
+  InfoPlist.strings
+  ScanPlant
+
+  Created by sihan on 2018/7/9.
+  Copyright © 2018年 sihan. All rights reserved.
+*/
+"CFBundleDisplayName" = "Translation";
+
+"NSCameraUsageDescription"="In order to use your device to recognize text, we need to access your camera";
+"NSPhotoLibraryAddUsageDescription"="In order to use your device to recognize text, we need to access your photo library";
+"NSPhotoLibraryUsageDescription"="In order to use your device to recognize text, we need to access your photo library";
+"NSMicrophoneUsageDescription"="In order to use your device to recognize text, we need to access your microphone";
+"NSSpeechRecognitionUsageDescription"="In order to use your device to recognize text, we need to access your speech recognition";

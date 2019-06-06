@@ -1,0 +1,153 @@
+/*
+ Localizable.strings
+ ScanPlant
+ 
+ Created by sihan on 2018/7/9.
+ Copyright © 2018年 sihan. All rights reserved.
+ */
+"language" = "zh-Hans";
+
+"AppName"="翻译神器";
+"Setting"="设置";
+"Remove all functional restrictions"="去除广告等使用限制";
+"Suggestion and Feedback"="建议与反馈";
+"Give us a rating"="给我们评分";
+"Advanced Features"="高级功能";
+"Other"="其他";
+"Excellent APP"="优秀APP";
+"Cancel"="取消";
+"Generating a picture"="生成美图";
+"Share"="分享";
+"Save to album" = "保存到相册";
+"Get token error"="获取token出错";
+"Error getting results"="获取结果出错";
+"save success"="保存成功 ✓";
+"go download"="去下载";
+"Identification error"="识别出错";
+"Server is busy, please wait"="服务器繁忙，请稍后！";
+"OK"="确定";
+"save success"="保存成功 ✓";
+"send failure"="发送失败";
+"send success"="发送成功 ✓";
+"Inaccessible to album.Please open the Settings -> Privacy -> Photos->WorldScan."="无法访问相册。请在手机系统设置->隐私->照片->%@，设置为打开状态。";
+"user denied access request"="此应用程序没有权限来访问您的照片或视频。\n您可以在“隐私设置”中启用访问。";
+"Go to comment"="去好评";
+"You have not been praised yet."="您还没有去好评哦！";
+"You have not downloaded it yet."="您还没有去下载哦!";
+"Click image to view details"="点击图片查看详情";
+"loading"="正在加载...";
+"load failed"="加载失败";
+"Learn more"="了解更多";
+"How many stars would you give it?" = "您给我们打几分?";
+"send" = "发送";
+"Back"="返回";
+"Baike details"="百科详情";
+"WordScan"="扫描王";
+"Translation"="翻译";
+"Copy"="复制";
+"Text content has been copied"="成功复制文字内容";
+"Done"="完成";
+"translating"="正在翻译...";
+"recognize language"="识别语言";
+"On"="开";
+"Off"="关";
+"Auto"="自动";
+"Photo translation"="拍照翻译";
+"Multilingual dictionary in the pocket"="装进口袋里的多语言词典";
+"Multiple translation languages"="多种翻译语言";
+"Contract-notes-documents-business cards"="合同・笔记・文件・名片";
+"Precise text recognition"="精准文字识别";
+"Identify 99% recognition rate"="识别99%识别率";
+"Privacy Policy"="隐私政策";
+"Experience now"="立即体验";
+"Dictionary"="词典";
+"BAIDU"="百度翻译";
+"YOUDAO"="有道翻译";
+"GOOGLE"="谷歌翻译";
+"Click to start typing"="点击开始输入内容";
+"Delete"="删除";
+"Translation record"="翻译历史";
+"see more"="查看更多";
+"Clear history"="清除历史";
+"Bing"="必应词典";
+"JinShan"="金山词典";
+"Picture"="拍译";
+"Voice"="语音";
+"Dialogue"="对话";
+"Whether to clear history"="是否清除历史记录?";
+"deleting"="正在删除...";
+"Common settings"="通用设置";
+"New words"="生词表";
+"Favorites"="收藏夹";
+"Long press to start recording"="长按开始录音";
+"Copy the original"="复制原文";
+"Copy the translation"="复制译文";
+"Detail"="详情";
+"Samples"="例句";
+"Easy switching on multiple platforms"="多平台轻松切换";
+"BaiDu YouDao Google"="百度翻译、有道翻译、谷歌翻译";
+"Two authoritative dictionaries"="两大权威词典";
+"Standard pronunciation, example interpretation, remember to be more secure"="标准发音、例句释义、记得更牢";
+"Multilingual dialogue translation"="多语言对话翻译";
+"Support multi-language, voice input, free hands"="支持多语言，语音输入，解放双手";
+"Listening"="正在聆听";
+"recording"="正在录音...";
+"Sorry, no records!"="抱歉，没有记录！";
+"YouDao only support"="有道目前仅支持中英文翻译，以及日语，韩语，法语，俄语和西班牙语翻译";
+"Please check the current nerwork status"="请检查当前网络状态!";
+
+"Recently used languages" = "最近使用";
+"Languages" = "种语言";
+
+"Submitted successfully" ="提交成功";
+
+"touch input" ="触摸以输入";
+"reset boot"="重置引导页";
+"reset successfully"= "重置成功";
+"click to edit the translation record"="点击后，编辑翻译记录";
+"select a language to start the translation" ="选择一种语言开始翻译";
+
+"auto"="自";
+"zh-CHS"="中";
+"zh"="中";
+"cht"="繁";
+"en"="英";
+"EN"="英";
+"fr"="法";
+"fra"="法";
+"de"="德";
+"es"="西";
+"spa"="西";
+"pt"="葡";
+"swe"="瑞";
+"fu"="芬";
+"fin"="芬";
+"dan"="丹";
+"nl"="荷";
+"ko"="韩";
+"kor"="韩";
+"ru"="俄";
+"ja"="日";
+"jp"="日";
+"it"="意";
+"pl"="波";
+
+"Automatic detection"="自动检测";
+"Simple chinese"="简体中文";
+"Traditrational chinese"="繁体中文";
+"English"="英文";
+"French"="法文";
+"German"="德文";
+"Spanish"="西班牙文";
+"Portuguese"="葡萄牙文";
+"Swedish"="瑞典文";
+"Italian"="意大利文";
+"Finnish"="芬兰文";
+"Danish"="丹麦文";
+"Dutch"="荷兰文";
+"Russian"="俄文";
+"japanese"="日文";
+"Korean"="韩文";
+"Polish"="波兰文";
+
+

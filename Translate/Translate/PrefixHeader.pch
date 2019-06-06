@@ -1,0 +1,18 @@
+//
+//  PrefixHeader.pch
+//  Translate
+//
+//  Created by sihao99 on 2019/5/27.
+//  Copyright © 2019 SiHan. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import <Masonry/Masonry.h>
+#import <ReactiveCocoa/ReactiveCocoa.h>
+#import "Constants.h"
+#import "LWConstants.h"
+#import "MBProgressHUDCustom.h"
+#import "Comn.h"
+#endif /* PrefixHeader_pch */

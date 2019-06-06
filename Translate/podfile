@@ -1,0 +1,13 @@
+platform :ios, '9.0'
+target 'Translate' do
+ pod ‘FMDB’
+ pod 'ReactiveCocoa', '~> 2.5'
+ pod 'Masonry'
+ pod 'SVProgressHUD'
+ pod 'MBProgressHUD'
+ #    实现类方法的拦截
+# pod 'Aspects', '~> 1.4.1'
+ pod 'AFNetworking'
+ pod 'SDWebImage'
+ pod 'IQKeyboardManager'
+end
